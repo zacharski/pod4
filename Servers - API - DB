@@ -1,0 +1,14 @@
+Servers - API - DB
+
+GET   - idempotent
+POST  - changes
+
+
+CRUD
+Create     - POST
+Read       - GET
+Update     - PUT POST
+Delete     - DELETE
+
+todo 
+
